@@ -32,24 +32,24 @@ All systems connected to a single relay to turn off all power in case of an emer
 
 
 #### Components
-Breadboards
-#USB cable
-Jumper cables
-Dupont Wires
-Cables 
-Esp32 microcontrollers
-Power Supply Module
-RFID chip and card
-DHT-11 (temperature and humidity sensor)
-Ultrasonic sensors
-PIR sensors (Motion sensor)
-Servo motors
-Relays
-Active buzzer
-Fan
-LCD1602 module (display board)
-LEDs
-Resistors
+* Breadboards
+* USB cable
+* Jumper cables
+* Dupont Wires
+* Cables 
+* Esp32 microcontrollers
+* Power Supply Module
+* RFID chip and card
+* DHT-11 (temperature and humidity sensor)
+* Ultrasonic sensors
+* PIR sensors (Motion sensor)
+* Servo motors
+* Relays
+* Active buzzer
+* Fan
+* LCD1602 module (display board)
+* LEDs
+* Resistors
 
 
 
@@ -75,11 +75,11 @@ Resistors
 
 
 #### Design Thinking
-*Available solutions to same problem or similar
-*Pros and cons of available solution
-*Cost of existing solution
-*Level of relevance, innovation and/or disruptiveness
-*Limits of existing solution
+* Available solutions to same problem or similar
+* Pros and cons of available solution
+* Cost of existing solution
+* Level of relevance, innovation and/or disruptiveness
+* Limits of existing solution
 
 
 #### Features
@@ -104,7 +104,7 @@ Resistors
 
 
 
-### Conclusions (30-08-2022)
+##### Conclusions (30-08-2022)
 * Lobby with spy cam coupled with Geographical positions to open doors externally based on human presence/proximity.
 * Spy cams turn on (close circuit) for rooms with humans.
 * Ultrasonic sensors to control internal functions (for now ~because of the cost of spy cams).
@@ -115,4 +115,4 @@ Resistors
 
 
 
-# What do you consider as key factors of success?
+###### What do you consider as key factors of success?
