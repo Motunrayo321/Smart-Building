@@ -157,6 +157,8 @@ All systems connected to a single relay to turn off all power in case of an emer
 * Dolapo - Hardware
 * Aliyu - Hardware
 * Mr. Victor - Tips and ideas
+* Mr. Tolu - Project management, hardware
+
 
 
 ##### Conclusions (30-08-2022)
